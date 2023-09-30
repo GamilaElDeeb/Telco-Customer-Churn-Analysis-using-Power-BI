@@ -57,7 +57,7 @@ A star schema model is built for a faster-analyzing process. The Telco Customer 
 
 - [ ] Status_Dim
 
-  .\images\243099457-b2bc7699-5f3a-46ad-a43e-511994c96f06.png)
+  .\images\243099457-b2bc7699-5f3a-46ad-a43e-511994c96f06.png
 
 #### Power BI Dashboard:
 
