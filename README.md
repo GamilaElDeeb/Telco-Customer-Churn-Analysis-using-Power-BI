@@ -57,8 +57,7 @@ A star schema model is built for a faster-analyzing process. The Telco Customer 
 
 - [ ] Status_Dim
 
-  
-Telco-Customer-Churn-Analysis-using-Power-BI\images\243099457-b2bc7699-5f3a-46ad-a43e-511994c96f06.png)
+  images\243099457-b2bc7699-5f3a-46ad-a43e-511994c96f06.png)
 
 #### Power BI Dashboard:
 
@@ -80,17 +79,16 @@ The dashboard contains:
 
   ------
 
-     Telco-Customer-Churn-Analysis-using-Power-BI\images\243099466-feb47a2a-3b99-40db-847b-637c99e54890 (1).png) 
+     images\243099466-feb47a2a-3b99-40db-847b-637c99e54890 (1).png) 
 
   
 
-    Telco-Customer-Churn-Analysis-using-Power-BI\images\243099472-b26c11dc-2ce5-4e3a-88db-2c1ec96c8bfb.png)
+    images\243099472-b26c11dc-2ce5-4e3a-88db-2c1ec96c8bfb.png)
 
-​     Telco-Customer-Churn-Analysis-using-Power-BI\images\243099474-a9234987-2f3a-46a3-8a5f-629f41ef0038.png) 
+​    images\243099474-a9234987-2f3a-46a3-8a5f-629f41ef0038.png) 
 
-   
-     Telco-Customer-Churn-Analysis-using-Power-BI\images\243099479-ee63c8ac-6233-4120-a4ff-142bfc17c5be.png)
+   images\243099479-ee63c8ac-6233-4120-a4ff-142bfc17c5be.png)
 
 ​    
 
-​    Telco-Customer-Churn-Analysis-using-Power-BI\images\243099485-7f18c59b-15e0-4b2e-a7f5-0488db0d4e91.png)
+​   images\243099485-7f18c59b-15e0-4b2e-a7f5-0488db0d4e91.png)
